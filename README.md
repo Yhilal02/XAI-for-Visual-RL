@@ -1,2 +1,2 @@
-# XAI-for-Visual-RL
-XAI for Visual RL: Comparing Scratch, Frozen, and Fine-Tuned Encoders
+# XAI-for-Visual-RL: Comparing Scratch, Frozen, and Fine-Tuned Encoders
+DL/RL Course Project - Group 6
